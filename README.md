@@ -17,3 +17,11 @@ Profile: `profilex_Discord`
 Hotkeys for [Discord](https://discord.com)
 
 ![Discord](./img/Discord.PNG)
+
+### Rider
+
+Profile: `profilex_Rider`
+
+Hotkeys for [Rider](https://www.jetbrains.com/rider/) on Windows (Mac Os should come soon)
+
+![Rider](./img/Rider.PNG)

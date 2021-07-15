@@ -1,0 +1,3 @@
+REM Move element
+
+CONTROL ALT SHIFT LEFTARROW
