@@ -1,6 +1,6 @@
 # Duckypad Profiles
 
-Custom profiles for the [duckyPad](https://github.com/dekuNukem/duckyPad).
+Custom profiles for the [duckyPad](https://github.com/dekuNukem/duckyPad) by dekuNukem.
 
 ## Usage
 
