@@ -1,0 +1,22 @@
+z1 Start
+z2 Mute
+z3 Deafen
+z4 ServUP
+z5 CallYes
+z6 CallNo
+z7 ServDow
+z8 Ital
+z9 FocCall
+z10 ChanUp
+z11 Bold
+z12 StrikeT
+z13 ChanDo
+z14 Refresh
+z15 DevCon
+BG_COLOR 0 0 255
+SWCOLOR_4 255 255 255
+SWCOLOR_5 255 255 255
+SWCOLOR_7 255 255 255
+SWCOLOR_9 255 255 255
+SWCOLOR_10 255 255 255
+SWCOLOR_11 255 255 255

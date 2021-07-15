@@ -16,4 +16,6 @@ Profile: `profilex_Discord`
 
 Hotkeys for [Discord](https://discord.com)
 
-![Discord](./img/Discord.png)
+![Discord](./img/Discord.PNG)
+
+Use the help.txt if you want to use the mute key. Or replace the mute key by the mute of Discord (but Discord must be focused for the key to work)
