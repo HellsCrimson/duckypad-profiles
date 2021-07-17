@@ -1,0 +1,20 @@
+z1 Start
+z2 Reform
+z3 Cleanup
+z4 Build
+z5 StateUp
+z6 Run
+z7 MoveL
+z8 StateDo
+z9 MoveR
+z10 Decla
+z11 FindUse
+z12 Testing
+BG_COLOR 255 0 0
+SWCOLOR_3 0 128 192
+SWCOLOR_7 255 128 0
+SWCOLOR_8 255 128 0
+SWCOLOR_9 0 128 192
+SWCOLOR_10 255 128 0
+SWCOLOR_11 0 128 192
+SWCOLOR_12 0 128 192

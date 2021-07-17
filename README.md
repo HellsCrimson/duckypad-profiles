@@ -22,6 +22,6 @@ Hotkeys for [Discord](https://discord.com)
 
 Profile: `profilex_Rider`
 
-Hotkeys for [Rider](https://www.jetbrains.com/rider/) on Windows (Mac Os should come soon)
+Hotkeys for [Rider](https://www.jetbrains.com/rider/) on Windows and Mac OS
 
 ![Rider](./img/Rider.PNG)

@@ -1,0 +1,3 @@
+REM you need to bind this shortcut
+
+OPTION SHIFT COMMAND E
