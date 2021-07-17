@@ -20,7 +20,7 @@ Hotkeys for [Discord](https://discord.com)
 
 ### Rider
 
-Profile: `profilex_Rider`
+Profile: `profilex_Rider` or `profilex_RiderMac`
 
 Hotkeys for [Rider](https://www.jetbrains.com/rider/) on Windows and Mac OS
 
